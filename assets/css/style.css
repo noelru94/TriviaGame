@@ -1,0 +1,16 @@
+/*
+title: font-family: 'Luckiest Guy', cursive;
+
+
+*/
+
+.jumbotron{
+    margin: 7% 0;
+    padding:20% 0;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+#start-button{
+    font-size: 30px;
+    padding: 6px 10px 0 10px;
+}
